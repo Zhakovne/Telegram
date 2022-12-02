@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot('5742880011:AAH8MkhWZox0v3j7o9nggEhKWHctUvWDhGU')
+bot = telebot.TeleBot('******************************')
 print('Бот запущен!')
 
 @bot.message_handler(content_types=["text"])
